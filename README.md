@@ -6,7 +6,7 @@ A dynamic Power BI dashboard  analysing more than 10,000 dataset designed to tra
 Data Source kaggle-Budget vs Actual Financial Dataset
 
 ## 🚀 Key Insights & Features
-* ** Data Cleaning and Transformation** extracted month and year from rwa date, removed duplicates,null values added added new measure of budget variance.
+Data Cleaning and Transformation extracted month and year from rwa date, removed duplicates,null values added added new measure of budget variance.
 * **Budget vs. Actual Variance Analysis:** Modeled custom DAX metrics (`Budget Variance` & `Variance %`) to track exactly where expenditures exceed or remain within allocations.
 * **Chronological Expense Tracking:** Implemented custom sort configurations to align tracking metrics cleanly over a 12-month fiscal timeline.
 * **Categorical Drill-Downs:** Engineered an expandable interactive matrix layout for deep-dives from high-level department metrics down to individual transaction channels (e.g., Travel, Salaries).
