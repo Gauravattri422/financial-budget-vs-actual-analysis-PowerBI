@@ -14,9 +14,8 @@ Data Cleaning and Transformation extracted month and year from rwa date, removed
 
 ## 🛠️ Tech Stack & Tools
 * **BI Tool:** Power BI Desktop
-* **Data Transformation:** Power Query (M Code) for deduplication, null-value replacement, and temporal extraction.
-* **Data Modeling:** DAX (Data Analysis Expressions) for dynamic performance metrics.
-
+* **Data Transformation:**  deduplication, null-value replacement, and temporal extraction.
+  
 ## 📦 How to View the Project
 1. Download the `.pbix` file repository from this project folder.
 2. Open the file directly inside **Power BI Desktop**.
