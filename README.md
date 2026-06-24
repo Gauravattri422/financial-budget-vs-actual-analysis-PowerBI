@@ -20,7 +20,5 @@ Data Cleaning and Transformation extracted month and year from rwa date, removed
 1. Download the `.pbix` file repository from this project folder.
 2. Open the file directly inside **Power BI Desktop**.
 
-View Link of the project- https://1drv.ms/u/c/964b16fd6b676228/IQAi_l9kkRi9SpeG0AXlHiBTAR8EW6VFoMgrq3OmtkCY1kk?e=0e9XeV
-
 ![Financial Budget Dashboard](./dashboard.png)
 
